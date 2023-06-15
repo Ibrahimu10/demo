@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stickman Blender Rig
+* source:	https://sketchfab.com/3d-models/stickman-blender-rig-3e71ebb2b9fe42d699adec8a3e64828e
+* author:	illusion (https://sketchfab.com/blenderillusion)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stickman Blender Rig" (https://sketchfab.com/3d-models/stickman-blender-rig-3e71ebb2b9fe42d699adec8a3e64828e) by illusion (https://sketchfab.com/blenderillusion) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
